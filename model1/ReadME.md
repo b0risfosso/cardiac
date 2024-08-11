@@ -9,3 +9,6 @@ seq2seq-ecg.ipynb - code that implements the seq2seq model for the prediction ta
 
 The model suffers from lack of data in the phases function. More data, better prediction results.
 
+what would happen if you fine-tuned a pretrained model on teh existing dataset
+would performance increase? 
+a mathematically based model? 
